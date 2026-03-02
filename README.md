@@ -30,7 +30,7 @@
 
 〇 言語
 
-- HTML / CSS (SCSS) / JavaScript / jQuery / PHP
+- HTML / CSS (SCSS) / Tailwind CSS / JavaScript / jQuery / PHP
 - Next.js / TypeScript（基礎学習済み）
 
 〇 CMS
@@ -69,8 +69,7 @@ https://shu-web.jp/uematsu-recruit/
 
 〇 企業LP（実案件想定課題）
 
-[https://shu-web.jp/jitsuanken-challenge/](https://www.google.com/search?q=https://shu-web.jp/jitsuanken-challenge/)
-
+https://shu-web.jp/jitsuanken-challenge/
 - 担当範囲：コーディング、レスポンス対応
 - 使用ツール：Figma
 - 制作期間：7日
@@ -80,7 +79,7 @@ https://shu-web.jp/uematsu-recruit/
 
 実機での見え方や調整のこだわりをこちらにまとめています。
 
-[https://www.notion.so/_-3-2f5c25ba278180deaeb1e50e751dde7d](https://www.notion.so/_-3-2f5c25ba278180deaeb1e50e751dde7d?pvs=21)
+https://www.notion.so/_-3-2f5c25ba278180deaeb1e50e751dde7d
 
 ## ◆ クライアント様へのメッセージ
 
